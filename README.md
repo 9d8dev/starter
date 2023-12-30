@@ -1,6 +1,6 @@
-![9d8](https://github.com/9d8dev/starter/assets/57158102/4937ccca-3908-468e-a6dd-ee1ea016f700)
-
 # 9d8 Next.js Starter
+
+![9d8](https://github.com/9d8dev/starter/assets/57158102/4937ccca-3908-468e-a6dd-ee1ea016f700)
 
 For more information see [here](https://9d8.notion.site/9d8-Starter-c76384fed0324d78b49d7f4a5dab52b1?pvs=4).
 
