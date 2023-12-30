@@ -17,7 +17,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Lucide Icons](https://lucide.dev/) for icons
 - [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge) for Tailwind CSS utilities
 - [Tailwind Animate](https://www.npmjs.com/package/tailwindcss-animate) for Tailwind CSS animations\
-- [TurboPack](https://turbo.build/pack)
+- [TurboPack](https://turbo.build/pack) for bundling
 
 ## Getting Started
 
