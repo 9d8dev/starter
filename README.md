@@ -14,9 +14,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Prettier](https://prettier.io/) for code formatting
 - [shadcn/ui](https://ui.shadcn.com/) for components
 - [clsx](https://www.npmjs.com/package/clsx) for CSS logic
-- [lucide-react](https://lucide.dev/) for icons
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge) for Tailwind CSS utilities
-- [tailwindcss-animate](https://www.npmjs.com/package/tailwindcss-animate) for Tailwind CSS animations
+- [Lucide Icons](https://lucide.dev/) for icons
+- [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge) for Tailwind CSS utilities
+- [Tailwind Animate](https://www.npmjs.com/package/tailwindcss-animate) for Tailwind CSS animations\
+- [TurboPack](https://turbo.build/pack)
 
 ## Getting Started
 
