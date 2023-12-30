@@ -1,4 +1,13 @@
+# 9d8 Next.js Starter
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## What's Included?
+
+- [TypeScript](https://www.typescriptlang.org/) for type safety
+- [Tailwind CSS](https://tailwindcss.com/) for styling
+- [ESLint](https://eslint.org/) for linting
+- [Prettier](https://prettier.io/) for code formatting
 
 ## Getting Started
 
