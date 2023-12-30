@@ -6,7 +6,7 @@ For more information see this [Notion Doc](https://9d8.notion.site/9d8-Starter-c
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## What's Included?
+## Included Libraries
 
 - [TypeScript](https://www.typescriptlang.org/) for type safety
 - [Tailwind CSS](https://tailwindcss.com/) for styling
@@ -21,16 +21,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, install dependencies and run the development server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
