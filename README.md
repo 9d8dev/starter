@@ -1,5 +1,7 @@
 # 9d8 Next.js Starter
 
+For more information see [here](https://9d8.notion.site/9d8-Starter-c76384fed0324d78b49d7f4a5dab52b1?pvs=4).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## What's Included?
