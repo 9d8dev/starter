@@ -10,6 +10,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [ESLint](https://eslint.org/) for linting
 - [Prettier](https://prettier.io/) for code formatting
+- [shadcn/ui](https://ui.shadcn.com/) for components
+- [clsx](https://www.npmjs.com/package/clsx) for CSS logic
 
 ## Getting Started
 
