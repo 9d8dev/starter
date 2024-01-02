@@ -18,13 +18,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge) for Tailwind CSS utilities
 - [Tailwind Animate](https://www.npmjs.com/package/tailwindcss-animate) for Tailwind CSS animations\
 - [TurboPack](https://turbo.build/pack) for bundling
-- Prisma as ORM
-- Next Auth for authentication 
-- Resend for email communication 
+- [Prisma](https://www.prisma.io/) as ORM
+- [Next Auth](https://next-auth.js.org/) for authentication 
+- [Resend](https://resend.com) for email communication and login
 
 ## Getting Started
 
-First, install dependencies and run the development server:
+First, clone this repository and install dependencies and run the development server:
 
 ```bash
 npm install
@@ -51,3 +51,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Since this project uses prisma, make sure to override the build command in Vercel with `npx prisma generate && next build`
