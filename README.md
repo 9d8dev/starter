@@ -16,7 +16,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [clsx](https://www.npmjs.com/package/clsx) for CSS logic
 - [Lucide Icons](https://lucide.dev/) for icons
 - [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge) for Tailwind CSS utilities
-- [Tailwind Animate](https://www.npmjs.com/package/tailwindcss-animate) for Tailwind CSS animations\
+- [Tailwind Animate](https://www.npmjs.com/package/tailwindcss-animate) for Tailwind CSS animations
 - [TurboPack](https://turbo.build/pack) for bundling
 - [Prisma](https://www.prisma.io/) as ORM
 - [Next Auth](https://next-auth.js.org/) for authentication 
